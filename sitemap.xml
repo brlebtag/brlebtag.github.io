@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://brlebtag.github.io/post/lotr-fellowship-of-the-ring-review/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/top/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/tags/book-review/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/categories/literature/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/post/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/tags/</loc>
+    <lastmod>2020-03-08T17:05:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brlebtag.github.io/top/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lebtag&#39;s Blog</title>
+    <link>https://brlebtag.github.io/</link>
+    <description>Recent content on Lebtag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 17:05:45 -0300</lastBuildDate>
+    
+	<atom:link href="https://brlebtag.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LOTR - Fellowship of the Ring Review</title>
+      <link>https://brlebtag.github.io/post/lotr-fellowship-of-the-ring-review/</link>
+      <pubDate>Sun, 08 Mar 2020 17:05:45 -0300</pubDate>
+      
+      <guid>https://brlebtag.github.io/post/lotr-fellowship-of-the-ring-review/</guid>
+      <description>Disclaimer First of all, by NO means I am a &amp;ldquo;specialist&amp;rdquo; on the topic and I am NOT evaluating the book as a specialist would do. Here is only my humble opinion that is based on my personal preferences and because of that it may diverge from yours. So no hard feelings, OK?
+So let&amp;rsquo;s get back to business!
+Background The Fellowship of The Ring was released in June 29, 1954.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://brlebtag.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brlebtag.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://brlebtag.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brlebtag.github.io/top/about/</guid>
+      <description>Hi, My name is Bruno Gabriel Lebtag Lebtag. I am a Brazilian Computer Scientist and Light Novelist. I am also a fluent English speaker. I started coding with 16 years and since then I couldn&amp;rsquo;t stop anymore. I love what I do and I can&amp;rsquo;t picture myself being or doing anything else.
+I consider myself a polyglot and polymath. I am currently learning german (although I can&amp;rsquo;t speak yet) and I&amp;rsquo;m also taking a Master&amp;rsquo;s in Software Architecture.</description>
+    </item>
+    
+  </channel>
+</rss>
